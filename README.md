@@ -6,3 +6,4 @@ This results in a partitioning of the data space into Voronoi cells.
 In this project, KMeans algorithm was implemented to find patterns in data. With varying number of centroids, classes of data is generated.
 
 Sample plot using locations of Health Facilities in Ghana with k = 6.
+![alt text](https://github.com/Dna072/Clustering-UnsupervisedLearning/blob/master/resources/kmeans.jpg)
